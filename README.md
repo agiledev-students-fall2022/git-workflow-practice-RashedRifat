@@ -12,9 +12,7 @@ I find it interesting to see how a changing data landscape have started to shift
 
 ---
 
-
 **Author:** Richard Yang <br>
-**Comment:** 
+**Comment:**
 
-The concept of devops and dataops is relatively new to me. It was an interesting read because it gave me a better perspective of what the two fields are, and why they are important in this day and age. With so many nuances to implementing devops, I can see why it being a very time consuming part of operations. Luckily, with the different tools at the developers' disposal, the process is made a lot easier. 
-
+The concept of devops and dataops is relatively new to me. It was an interesting read because it gave me a better perspective of what the two fields are, and why they are important in this day and age. With so many nuances to implementing devops, I can see why it being a very time consuming part of operations. Luckily, with the different tools at the developers' disposal, the process is made a lot easier.
